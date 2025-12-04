@@ -1,0 +1,22 @@
+WHAT IS NUMPY
+
+STANDS NUMERICAL PYHTON 
+WORKING WITH ARRAY
+
+Real-World Uses of NumPy
+Machine Learning
+
+Training datasets
+
+Feature scaling
+Linear regression
+
+Computer Vision
+
+Images = NumPy arrays
+Filters, convolution
+
+Deep Learning
+
+Tensor operations
+Weight matrices
